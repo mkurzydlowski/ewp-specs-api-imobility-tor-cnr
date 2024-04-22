@@ -5,8 +5,8 @@
     xmlns:ewp="https://github.com/erasmus-without-paper/ewp-specs-architecture/blob/stable-v1/common-types.xsd"
     elementFormDefault="qualified"
 
-    targetNamespace="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-cnr/tree/stable-v1"
-    xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-cnr/tree/stable-v1"
+    targetNamespace="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-cnr/tree/stable-v2"
+    xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-tor-cnr/tree/stable-v2"
 >
     <!-- WRTODO: Do not release until dependants are released: Incoming Mobility ToRs API -->
 
